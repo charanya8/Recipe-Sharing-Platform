@@ -12,7 +12,9 @@ Install dependencies:
 
 npm install
 
+
 Set up environment variables:
+
 
 Create a .env file in the root directory.
 Add the following environment variables:
